@@ -1,0 +1,15 @@
+.encabezado{
+
+    background-color: cornflowerblue;
+}
+
+.alinear{
+    display: flex;
+    gap: 220px;
+    
+}
+
+.centrar{
+
+    
+}
